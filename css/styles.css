@@ -1,0 +1,34 @@
+.Miami-Dolphins-Logo {
+    width: 300px;
+    height: 250px;
+    border-color: teal;
+    border-width: 10px;
+    border-style: solid; 
+}
+.Portfolio {
+    background-color: orange;
+    text-align: center;
+}
+.page-content {
+    text-decoration: underline;
+    text-decoration-color: teal;
+    text-align: center;
+    font-size: 25px;
+}
+.Projects {
+    text-align: center;
+    font-size: 25px;
+}
+p {
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a {
+    font-size: 20px;
+}
+H1 {
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+    
